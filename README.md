@@ -1,13 +1,13 @@
 # SMT-token-smart-contract
 
 ## Token Specification
-Name of the token: Smart Token 
-Ticker: SMT 
-Total Supply: 15,000,000 SMT 
-Decimal: 18 
-Network: Binance Smart Chain (BSC) 
-Mint Function: Disabled 
-Proxy: No
+	Name of the token: Smart Token 
+	Ticker: SMT 
+	Total Supply: 15,000,000 SMT 
+	Decimal: 18 
+	Network: Binance Smart Chain (BSC) 
+	Mint Function: Disabled 
+	Proxy: No
 
 ## Token Owner’s privileges
 ExcludeFromFee
