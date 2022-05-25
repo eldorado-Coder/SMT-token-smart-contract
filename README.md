@@ -16,10 +16,9 @@ ChangeTaxPercentage
 	Ability to change percentage of buy and sell tax
 ChangeTaxReceiver
 	Ability to change wallet address which receives tax from buying or selling activities
-Tax Features
-	Buy Tax (10%) Intermediary (5%)
-	Tax to Marketing & Dev address (10%)
-	Tax to Smart Tax address (90%)
-
-	Sell Tax (10%) Intermediary (5%)
-	Tax to Marketing & Dev address (10%) Tax to Burn Address (20%) Tax to Smart Tax address (70%)
+##Tax Features
+Buy Tax (10%) Intermediary (5%)
+Tax to Marketing & Dev address (10%)
+Tax to Smart Tax address (90%)
+Sell Tax (10%) Intermediary (5%)
+Tax to Marketing & Dev address (10%) Tax to Burn Address (20%) Tax to Smart Tax address (70%)
